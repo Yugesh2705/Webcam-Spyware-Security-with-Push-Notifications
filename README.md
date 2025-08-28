@@ -3,8 +3,8 @@
 
 # OBJECTIVE
 
-```👉 The main objective of this project is to help users easily control their webcam security and get alerts whenever something suspicious happens.
-KEY FEATURES```
+👉 The main objective of this project is to help users easily control their webcam security and get alerts whenever something suspicious happens.
+KEY FEATURES
 
     🔐 Password-Protected Camera Control ➡ Only authorized users can enable or disable the webcam by entering a password.
     📹 Secret Intruder Recording ➡ Automatically records a short 5-second video if an unauthorized access attempt is made.
